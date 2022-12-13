@@ -1,4 +1,4 @@
-# Repo to practise run of a simple customer churning example based on the Kaggle dataset (link : )
+# Repo to practise run of a simple customer churning example based on the Kaggle dataset 
 
 # Links
 
